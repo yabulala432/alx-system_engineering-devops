@@ -1,2 +1,6 @@
-0 string school school data
-!:mime school
+#!/bin/bash
+if [[ $(xxd -l 6 -p "$1") == "5343484f4f4c" ]]; then
+    echo "School data file"
+else
+    echo "Unknown file type"
+fi
