@@ -8,4 +8,5 @@ At ALX School we do hard things, the goal is not to be a good student rather the
 DIRECTORIES	DESCRIPTION
 0x00-shell_basics	Introduction to the basics of the Linux Shell
 0x01-shell_permissions	Introduction to Shell permissions and the file system
+
 Set By : Yeabsira Yonas
