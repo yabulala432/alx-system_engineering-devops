@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$($binary) | bc"
+echo "$((2#$BINARY))"
